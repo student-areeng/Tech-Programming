@@ -1,3 +1,3 @@
 # Tech-Programming
 This is my first Git repositiory.
-Khushboo-Hattar
+Author-Khushboo Hattar
